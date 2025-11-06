@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:SINGAMALA VENKATA SAI KUMAR REDDY       </h3>
-<h3>Register Number:212223230208           </h3>
+<h3>Name:JUDE TARUN      </h3>
+<h3>Register Number:212224040144          </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
